@@ -1,0 +1,26 @@
+[
+    {
+        "neo4j": "4.4.3",
+        "neo4jVersion": "4.4.3",
+        "version": "0.2.5",
+        "url": "https://github.com/third-street/spatial-algorithms/releases/tag/0.2.5-neo4j-4.2.11",
+        "homepageUrl": "https://github.com/third-street/spatial-algorithms/releases/tag/0.2.5-neo4j-4.2.11",
+        "jar": "https://github.com/third-street/spatial-algorithms/releases/download/0.2.5-neo4j-4.2.11/spatial-algorithms-dist-0.2.5-neo4j-4.2.11.jar",
+        "downloadUrl": "https://github.com/third-street/spatial-algorithms/releases/download/0.2.5-neo4j-4.2.11/spatial-algorithms-dist-0.2.5-neo4j-4.2.11.jar",
+        "sha1": "eeb162f5d97a6be85c04b33aacadd619f280247f",
+        "sha256": "1edadf935842a2c30b05de7d99eac8762c0d283bf50fa583ea5ca3001ce67462",
+        "md5": "ef5e7d69d208266c2e5d86d5566650f1"
+    },
+    {
+        "neo4j": "4.4.2",
+        "neo4jVersion": "4.4.2",
+        "version": "0.2.5",
+        "url": "https://github.com/third-street/spatial-algorithms/releases/tag/0.2.5-neo4j-4.2.11",
+        "homepageUrl": "https://github.com/third-street/spatial-algorithms/releases/tag/0.2.5-neo4j-4.2.11",
+        "jar": "https://github.com/third-street/spatial-algorithms/releases/download/0.2.5-neo4j-4.2.11/spatial-algorithms-dist-0.2.5-neo4j-4.2.11.jar",
+        "downloadUrl": "https://github.com/third-street/spatial-algorithms/releases/download/0.2.5-neo4j-4.2.11/spatial-algorithms-dist-0.2.5-neo4j-4.2.11.jar",
+        "sha1": "eeb162f5d97a6be85c04b33aacadd619f280247f",
+        "sha256": "1edadf935842a2c30b05de7d99eac8762c0d283bf50fa583ea5ca3001ce67462",
+        "md5": "ef5e7d69d208266c2e5d86d5566650f1"
+    }
+  ]
